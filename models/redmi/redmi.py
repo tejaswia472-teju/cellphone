@@ -1,0 +1,1 @@
+print("Redmi model loaded successfully.")
